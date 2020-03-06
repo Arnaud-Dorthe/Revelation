@@ -1,5 +1,3 @@
-"To understand the Universe, you must understand the language in which it's written, the language of Mathematics." Galileo Galilei, The Father Of Science
-
 # Revelation
 The ultimate theory of almost everything
 
